@@ -1,4 +1,4 @@
-package aufgabenArray.aufgabenArraySort;
+package aufgabenArraySort;
 
 import java.util.Arrays;
 
