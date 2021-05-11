@@ -1,3 +1,7 @@
+/*
+ * just a utility class to manipulate arrays 
+ */
+
 package aufgabenArraySort;
 
 import java.util.Arrays;
@@ -222,38 +226,3 @@ public abstract class ArrayUtil {
 	}
 }
 
-/*
- * is so
- * 
- * 
- * 
- * 
- * 
- * 
- * 
- * 
- * 
- * 
- * 
- * 
- * 
- * 
- * 
- * 
- * 
- * 
- * 
- * 
- * 
- * 
- * 
- * 
- * 
- * 
- * 
- * 
- * 
- * 
- * 
- * 
- */
