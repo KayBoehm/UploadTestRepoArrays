@@ -2,10 +2,12 @@ package aufgabenArraySort;
 
 import java.util.Arrays;
 
+//ein neues testkommentar
+
 public class ArrayTest {
 	public static void main(String[] args) {
 
-		int[] numbersAsc = new int[11];
+		
 		int[] numbersDesc = new int[10];
 		int[] numbersRand = new int[10];
 		int[] numbersTenK = new int[10000];
